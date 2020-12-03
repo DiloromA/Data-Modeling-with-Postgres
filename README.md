@@ -27,7 +27,3 @@ To run the program:
 2. os
 3. glob
 4. pandas
-
-
-# Data-Modeling-with-Postgres
-# Data-Modeling-with-Postgres
